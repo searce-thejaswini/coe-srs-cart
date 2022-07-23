@@ -13,7 +13,7 @@ on:
   pull_request:
 
 env:
-  GAR_INFO: us-central1-docker.pkg.dev/coe-srs-2022/coe-srs-gar-repo 
+  GAR_INFO: us-central1-docker.pkg.dev/srs-cart-demo/srs-cart-gar-repo 
   APP_NAME: rs-cart
   
 jobs:
